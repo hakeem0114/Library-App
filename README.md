@@ -1,10 +1,3 @@
 # Library-App
 
-Image/SVG credits: 
-https://pictogrammers.com/library/mdi/
-https://www.freepik.com/free-photos-vectors/avatar
-
-
-Pallete credits:
-https://tailwindcss.com/docs/customizing-colors
-
+Uses OOP to create library app to & remove inventory.
