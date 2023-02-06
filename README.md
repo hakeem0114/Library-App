@@ -1,3 +1,3 @@
 # Library-App
 
-Uses OOP to create library app to & remove inventory.
+Uses OOP to create library app to add & remove inventory.
